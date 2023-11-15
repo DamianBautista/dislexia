@@ -127,6 +127,7 @@ public class Calculos implements Serializable {
 
     public void setProblemas(String problemas) {
         this.problemas = problemas;
+        
     }
 
 }
