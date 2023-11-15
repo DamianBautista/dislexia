@@ -104,6 +104,7 @@ public class Calculos implements Serializable {
     }
     
     public double getCalificacionActividad2() {
+        
         return calificacionActividad2;
     }
 
