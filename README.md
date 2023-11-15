@@ -12,4 +12,4 @@ Este proyecto es un sistema web diseñado para ayudar a niños de primaria con d
 1. Clona el repositorio a tu máquina local:
 
    ```bash
-   git clone https://tu-usuario/tu-repositorio.git
+   git clone https://github.com/DamianBautista/dislexia.git
